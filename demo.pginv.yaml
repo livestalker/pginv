@@ -4,4 +4,4 @@ connection:
   port: 5432
   user: postgres
   password: postgres
-  dbname: ansible
+  dbname: ansible_inventory
